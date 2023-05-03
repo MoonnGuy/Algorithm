@@ -10,3 +10,5 @@ int LinearSearch(int numbers[], int numbersSize, int key) {
    
    return -1; /* not found */
 }
+//remember this when call the fucntion 
+ keyIndex = LinearSearch(numbers, NUMBERS_SIZE, key); 
