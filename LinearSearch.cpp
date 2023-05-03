@@ -1,3 +1,4 @@
+// one dimension array, rcm when work with the small amount of database
 int LinearSearch(int numbers[], int numbersSize, int key) {
    int i;
    
