@@ -1,3 +1,4 @@
+//buble sort for 2 dimension array 
 BubbleSort(numbers, numbersSize) {
    for (i = 0; i < numbersSize - 1; i++) {
       for (j = 0; j < numbersSize - i - 1; j++) {
